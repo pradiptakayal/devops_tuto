@@ -1,7 +1,5 @@
 <h1 align="center">🔥 TERRAFORM  INSTALLATION ON UBUNTU 🔥</h1>
 
-<h2 align="center">🔥🔥 👉 Please Like & Subscribe My Channel To Motivate Me 🔥🔥 🙏 👍</h2>
-
 <br />
 
 ## 🔹STEP-1
